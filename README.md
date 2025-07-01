@@ -32,8 +32,8 @@ Desarrollar una plataforma que:
     <td align="center"><b>Panel Administrador</b></td>
   </tr>
   <tr>
-    <td><img src="./web/screenshots/login.png" width="300"/></td>
-    <td><img src="./web/screenshots/admin.png" width="300"/></td>
+    <td><img src="./screenshots/login.png" width="300"/></td>
+    <td><img src="./screenshots/admin.png" width="300"/></td>
   </tr>
   <tr>
     <td align="center"><b>Vista de datos</b></td>
