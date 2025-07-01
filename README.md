@@ -40,8 +40,8 @@ Desarrollar una plataforma que:
     <td align="center"><b>Alertas Correo</b></td>
   </tr>
   <tr>
-    <td><img src="./web/screenshots/estado.png" width="300"/></td>
-    <td><img src="./web/screenshots/correo.png" width="300"/></td>
+    <td><img src="./screenshots/estado.png" width="300"/></td>
+    <td><img src="./screenshots/correo.png" width="300"/></td>
   </tr>
 </table>
 
