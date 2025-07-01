@@ -24,7 +24,7 @@ Desarrollar una plataforma que:
 
 ---
 
-## 🖥 Capturas de Pantalla (Aplicación Web)
+## 🖥 Capturas de Pantalla (Aplicación Escritorio)
 
 <table>
   <tr>
